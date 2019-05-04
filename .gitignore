@@ -1,3 +1,13 @@
+# vagrant work directory
+/.vagrant
+/bin
+/tmp
+/run
+
+# files
+**/*iso
+**/*img
+
 # no build
 build/
 
