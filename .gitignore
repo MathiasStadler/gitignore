@@ -1,3 +1,32 @@
+# no build
+build/
+
+# no archive
+**/*tgz
+**/*gz
+**/*xz
+**/*gzip
+
+
+# custom 
+**/currentContainerIpAddr.txt
+
+# for security reason
+.vscode/**
+**/*key
+**/*pem
+**/*crt
+**/*id
+**/*der
+data/**/*
+*id
+
+# log not to repo
+log/*
+
+# wireshark
+**/*pcap
+
 # Logs
 logs
 *.log
