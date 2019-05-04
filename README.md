@@ -1,0 +1,2 @@
+# gitignore
+My master gitignore
